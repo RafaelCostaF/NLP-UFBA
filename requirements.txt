@@ -2,3 +2,4 @@ spacy
 pymupdf
 pandas
 chardet
+langdetect
